@@ -1,0 +1,16 @@
+
+
+.alls {
+    background-color: rgb(6, 98, 246);
+    text-align: center;
+    width: 30%;
+    position: relative;
+    left: 35%;
+    margin-top: 1%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    color: whitesmoke;
+    border-radius: 12px;
+    margin-bottom: 1%;
+    font-weight: 700;
+}

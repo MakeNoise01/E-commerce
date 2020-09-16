@@ -1,0 +1,50 @@
+.wrapper {
+	margin-top: 3%;
+	padding-right: 50px;
+	height: 600px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: rgb(204, 204, 204);
+	margin-left: 5%;
+	margin-right: 5%;
+	-webkit-box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0); 
+box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+
+.Imga {
+	display: flex;
+	width: 550px;
+	height: 350px;
+	border: 1px white solid;
+	border-radius: 3px;
+	margin-bottom: 70px;
+	-webkit-box-shadow: 9px 9px 44px 0px rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: 9px 9px 44px 0px rgba(0, 0, 0, 0.75);
+	box-shadow: 9px 9px 44px 0px rgba(0, 0, 0, 0.75);
+}
+
+.califcs {
+	display: inline-flex;
+	justify-content: space-between;
+}
+
+.Description {
+	display: inline-block;
+	padding-left: 1%;
+	margin-left: 40px;
+	border-left: 5px gray solid;
+	background-color: whitesmoke;
+	width: 35%;
+	height: 50%;
+	border-top-right-radius: 9px;
+	border-bottom-right-radius: 9px;
+	margin-bottom: 70px;
+	-webkit-box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0); 
+box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0);
+	border: 6px double #d9f7ff;
+}
+
+.Precio {
+	margin-top: 8%;
+}

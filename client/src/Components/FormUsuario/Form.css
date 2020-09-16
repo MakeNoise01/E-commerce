@@ -1,0 +1,20 @@
+.Formm {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-left: 17%;
+}
+.danger{
+  border: red 1px solid;
+}
+.skere:hover {
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2), 0px 4px 5px 0px rgba(0,0,0,0.14), 0px 1px 10px 0px rgba(0,0,0,0.12);
+  background-color: #00e676 !important;
+  outline: none;
+  border: none;
+  color: white !important;
+}
+.skere {
+  background-color: #00e676 !important; 
+  color: white !important;
+}

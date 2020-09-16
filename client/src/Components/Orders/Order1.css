@@ -1,0 +1,36 @@
+.orderUser {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#totalprecio {
+    size: 24px;
+    background-color: rgb(30, 147, 243);
+    border-radius: 7px;
+    padding: 0.5%;
+    color: whitesmoke;
+    align-self: flex-end;
+    margin-right: 7%;
+    margin-top: 1%;
+}
+
+
+#nroYuser {
+    align-self: flex-start;
+    margin-left: 2%;
+    margin-top: 1%;
+    display: inline-flex;
+    flex-wrap: nowrap;
+}
+
+#hora {
+    align-self: start;
+    margin-left: 2%;
+}
+
+#combine {
+    width: 100%;
+    background-image: linear-gradient(90deg, whitesmoke, rgb(30, 147, 243));
+    border-bottom-right-radius: 30px;
+}

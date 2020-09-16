@@ -1,0 +1,9 @@
+.contcatal {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	background-color: whitesmoke;
+	padding-top: 30px;
+}

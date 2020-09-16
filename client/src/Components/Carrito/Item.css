@@ -1,0 +1,142 @@
+.botoncart {
+	width: 42px;
+	height: 42px;
+	border-radius: 21px;
+	background-color: rgb(202, 202, 202);
+}
+.titdes {
+	padding-bottom: 60px;
+	justify-self: flex-start;
+	position: relative;
+	width: 50%;
+	right: 40px;
+	margin-left: 2%;
+}
+#precio {
+	font-weight: 700;
+	font-size: 24px;
+	position: relative;
+	top: 5px;
+}
+#boton1 {
+	margin-left: 30px;
+	background: linear-gradient(to bottom, #f51818 5%, #c22d50 100%);
+	background-color: #f51818;
+	border-radius: 5px;
+	display: inline-block;
+	cursor: pointer;
+	color: #ffffff;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 10px 20px;
+	text-decoration: none;
+	text-shadow: 0px 1px 0px #2f6627;
+	outline: none;
+	border: 0px;
+}
+#boton1:hover {
+	background: linear-gradient(to bottom, #c22d50 5%, #f51818 100%);
+	background-color: #c22d50;
+}
+#boton1:active {
+	position: relative;
+	top: 1px;
+}
+#boton2 {
+	margin-left: 30px;
+	background: linear-gradient(to bottom, #2045aa 5%, #2045aa 100%);
+	background-color: #2045aa;
+	border-radius: 5px;
+	display: inline-block;
+	cursor: pointer;
+	color: #ffffff;
+	font-family: Arial;
+	font-size: 16px;
+	font-weight: bold;
+	padding: 4px 20px;
+	text-decoration: none;
+	text-shadow: 0px 1px 0px #2f6627;
+	outline: none;
+	border: 0px;
+}
+#boton2:hover {
+	background: linear-gradient(to bottom, #1224c2 5%, #1878f5 100%);
+	background-color: #2d6ec2;
+}
+#boton2:active {
+	position: relative;
+	top: 1px;
+}
+.precioboton {
+	display: flex;
+	margin-left: 30px;
+	position: relative;
+	right: 40px;
+}
+.tituloo {
+	font-size: 23px;
+	font-weight: 700;
+	display: flex;
+}
+.acomodo {
+	margin-top: 8px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.botooon {
+	display: flex;
+	justify-self: flex-end;
+	background-color: whitesmoke;
+	padding: 5px;
+	border-radius: 12px;
+}
+.itemind {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.disp {
+	display: flex;
+}
+
+.imgCart {
+	width: 200px;
+	height: 140px;
+	border-radius: 10px;
+	-webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease;
+}
+.imgCart:hover  {
+	-webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.carritoItem {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	-webkit-box-shadow: 0px 0px 87px 19px rgba(0,0,0,0.17);
+-moz-box-shadow: 0px 0px 87px 19px rgba(0,0,0,0.17);
+box-shadow: 0px 0px 87px 19px rgba(0,0,0,0.17);
+}
+.cartitem {
+	height: 200px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	width: 97%;
+}
+
+.inpCant {
+	height: 30px;
+	width: 40px;
+	border: 0px;
+	text-align: center;
+	background-color: whitesmoke;
+}

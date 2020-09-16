@@ -1,0 +1,73 @@
+.orderID {
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: linear-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 200;
+    padding: 4px;
+    box-shadow: 0px 1px 9px 2px #0059A0;
+    -webkit-box-shadow: 0px 1px 9px 2px #0059A0;
+    -moz-box-shadow: 0px 1px 9px 2px #0059A0;
+    border: solid #FFFFFF 0px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    outline: none;
+}
+
+.despachar {
+    background-color: #44c767;
+    border-radius: 28px;
+    border: 1px solid #18ab29;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #2f6627;
+    text-align: center;
+    outline: none;
+    font-size: 16px;
+    font-weight: 200;
+    padding: 4px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.despachar:hover {
+    background-color: #5cbf2a;
+}
+
+.cancelar {
+    background-color: #c51616;
+    border-radius: 28px;
+    border: 1px solid #b10a0a;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #661e1e;
+    text-align: center;
+    outline: none;
+    font-size: 16px;
+    font-weight: 200;
+    padding: 4px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.cancelar:hover {
+    background-color: #f80404;
+}
